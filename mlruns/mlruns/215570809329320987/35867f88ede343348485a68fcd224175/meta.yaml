@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/iamli/OneDrive/Desktop/Pricing/mlruns/mlruns/215570809329320987/35867f88ede343348485a68fcd224175/artifacts
+end_time: 1768291419835
+entry_point_name: ''
+experiment_id: '215570809329320987'
+lifecycle_stage: active
+run_id: 35867f88ede343348485a68fcd224175
+run_name: LinearRegression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768291419743
+status: 3
+tags: []
+user_id: iamli
